@@ -1,1 +1,1 @@
-# A repo of my simple game that I am makeking to lead Raylib in rust!
+# A repo of my simple game that I am makeing to lead Raylib in rust!
